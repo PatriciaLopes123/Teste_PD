@@ -1,7 +1,7 @@
 <h1 align="center">Teste PD Soluções</h1>
 
 ## Descrição do Projeto
-<p align="center">Projeto desenvolvido para fim de teste na empresa PD Soluções.</p>
+<p align="center">Projeto desenvolvido para fim de geração de comentário para a nota fiscal PD Soluções.</p>
 
 
 Tabela de conteúdos
