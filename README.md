@@ -22,7 +22,7 @@ Tabela de conteúdos
 
 ### Pré-requisitos
 
-Antes de começar, é neessário ter instalado em sua máquina as seguintes ferramentas:
+Antes de começar, é necessário ter instalado em sua máquina as seguintes ferramentas:
 [PayCharm](https://www.jetbrains.com/pycharm/), [Python](https://www.python.org/downloads/). 
 
 ### 🎲 Rodando o Programa 
@@ -31,18 +31,18 @@ Antes de começar, é neessário ter instalado em sua máquina as seguintes ferr
 * Clone este repositório
 - git clone <https://github.com/PatriciaLopes123/Teste_PD>
 
-# Abra a pasta "Teste_PD" no PyCharm 
+* Abra o PyCharm 
+- Abra a pasta "Teste_PD" no PyCharm 
 
-# 
-$ cd server
+* Ao executar o código, será requisitado o valor total da nota fiscal (Coloque números inteiros, vírgula somente para separar os centavos).
+- Exemplo: 24350,00.
 
-# Instale as dependências
-$ npm install
+* Em seguida, aparecerá todos resultados baseados nos valores pré-determinados no código e na entrada.txt  
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+* Para mudar os valores das porcentagens na entrada.txt, basta abrir o arquivo e mudar os valores (pode-se colocar vírgulas, se necesário)
+- Após isso, no código, mude também as linhas referentes a "uniaoPorcentagem" e "municipioPorcentagem" paraos mesmos valores estipulados na entrada.txt
 
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+# Seguindo esse passos, os cálculos serão automaticamente (com bae nos nas fórmulas definidas) 
 ```
 
 ### 🛠 Tecnologias
