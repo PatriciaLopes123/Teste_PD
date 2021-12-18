@@ -40,7 +40,7 @@ somente para separar os centavos).
 
 * Em seguida, aparecerá todos os resultados baseados nos valores pré-determinados no código e na entrada.txt.
 
-* Para mudar os valores das porcentagens na entrada.txt, basta abrir o arquivo e mudar os valores (pode-se 
+* Para mudar os valores das porcentagens e vencimento na entrada.txt, basta abrir o arquivo e mudar os valores (pode-se 
 colocar vírgulas e demais símbolos, se necesário).
 - Após isso, no código, mude também as linhas (25 e 26) referentes a "uniaoPorcentagem" e 
 "municipioPorcentagem" para os mesmos valores estipulados na entrada.txt (porém, use apenas "ponto" 
