@@ -7,10 +7,10 @@ Tabela de conteúdos
 =================
 <!--ts-->
   
-   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Tabela de Conteúdo](#tabela-de-conteudo)
    * [Como usar](#como-usar)
       * [Pré Requisitos](#Pre-requisitos)
-      * [Podando o Programa](#Rodando-o-programa)
+      * [Rodando o Programa](#Rodando-o-programa)
       * [Tecnologias](#tecnologias)
 <!--te-->
 
