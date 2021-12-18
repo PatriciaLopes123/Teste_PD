@@ -9,9 +9,8 @@ Tabela de conteúdos
   
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Como usar](#como-usar)
-      * [Pre Requisitos](#Pré-requisitos)
-      * [Local files](#local-files)
-      * [rodando o programa](#Rodando-o-programa)
+      * [Pré Requisitos](#Pre-requisitos)
+      * [Podando o Programa](#Rodando-o-programa)
       * [Tecnologias](#tecnologias)
 <!--te-->
 
