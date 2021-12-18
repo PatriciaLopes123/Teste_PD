@@ -9,12 +9,10 @@ Tabela de conteúdos
   
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
+      * [Pre Requisitos](#Pré-requisitos)
       * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tecnologias](#tecnologias)
+      * [Rodando o Programas]
+      * [Tecnologias](#tecnologias)
 <!--te-->
 
 
