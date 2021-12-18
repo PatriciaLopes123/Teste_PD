@@ -3,19 +3,25 @@
 ## Descrição do Projeto
 <p align="center">Projeto desenvolvido para fim de teste na empresa PD Soluções.</p>
 
+
 Tabela de conteúdos
 =================
 <!--ts-->
-   * Tabela de Conteúdo
-   * Como usar
-      * [Pré Requisitos](#pre-requisitos)
-      * [Rodando o programa](#Rodando-o-programa)
+   * [Sobre](#Sobre)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Instalação](#instalacao)
+   * [Como usar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+   * [Tests](#testes)
    * [Tecnologias](#tecnologias)
 <!--te-->
 
-
 <h4 align="center"> 
-	🚧  Status do projeto 🚀 Em andamento...  🚧
+	🚧  Status do projeto 🚀 Em andamento.  🚧
 </h4>
 
 
@@ -46,7 +52,7 @@ símbolos, se necesário).
 valores estipulados na entrada.txt (porém, use apenas "ponto" para separar as casas decimais).
 - Exemplo: 8.05486.
 
-# Seguindo esse passos, os cálculos serão feitos automaticamente (com bae nos nas fórmulas definidas) 
+# Seguindo esse passos, os cálculos serão feitos automaticamente (com base nos nas fórmulas definidas) 
 ```
 
 ### 🛠 Tecnologias
