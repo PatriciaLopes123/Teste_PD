@@ -6,11 +6,11 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Tabela de Conteúdo](#tabela-de-conteudo)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Como usar](#como-usar)
-      * [Pré-Requisitos](#Pre-requisitos)
-      * [Rodando o Programa](#Rodando-o-Programa)
-      * [Tecnologias](#tecnologias)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Rodando o programa](#Rodando-o-programa)
+   * [Tecnologias](#tecnologias)
 <!--te-->
 
 
