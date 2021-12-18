@@ -11,3 +11,7 @@ Tabela de conteúdos
    * [Tests](#testes)
    * [Tecnologias](#tecnologias)
 <!--te-->
+
+<h4 align="center"> 
+	🚧  React Select 🚀 Em desenvolvimento...  🚧
+</h4>
