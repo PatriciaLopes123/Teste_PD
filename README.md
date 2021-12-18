@@ -11,7 +11,7 @@ Tabela de conteúdos
    * [Como usar](#como-usar)
       * [Pre Requisitos](#Pré-requisitos)
       * [Local files](#local-files)
-      * [Rodando o Programa](#Rodando-o-programa)
+      * [rodando o programa](#Rodando-o-programa)
       * [Tecnologias](#tecnologias)
 <!--te-->
 
