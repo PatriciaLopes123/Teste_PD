@@ -38,7 +38,7 @@ Antes de começar, é necessário ter instalado em sua máquina as seguintes fer
 somente para separar os centavos).
 - Exemplo: 24350,00.
 
-* Em seguida, aparecerá todos os resultados baseados nos valores pré-determinados no código e na entrada.txt  
+* Em seguida, aparecerá todos os resultados baseados nos valores pré-determinados no código e na entrada.txt.
 
 * Para mudar os valores das porcentagens na entrada.txt, basta abrir o arquivo e mudar os valores (pode-se 
 colocar vírgulas e demais símbolos, se necesário).
