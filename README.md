@@ -32,10 +32,9 @@ Antes de começar, é neessário ter instalado em sua máquina as seguintes ferr
 * Clone este repositório
 - git clone <https://github.com/PatriciaLopes123/Teste_PD>
 
-# Abra a pasta "Teste_PD" no PyCharm
-$ 
+# Abra a pasta "Teste_PD" no PyCharm 
 
-# Vá para a pasta server
+# 
 $ cd server
 
 # Instale as dependências
