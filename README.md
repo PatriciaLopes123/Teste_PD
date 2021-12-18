@@ -34,7 +34,8 @@ Antes de começar, é necessário ter instalado em sua máquina as seguintes fer
 * Abra o PyCharm 
 - Abra a pasta "Teste_PD" no PyCharm 
 
-* Ao executar o código, será requisitado o valor total da nota fiscal (coloque números inteiros, vírgula somente para separar os centavos).
+* Ao executar o código, será requisitado o valor total da nota fiscal (coloque números inteiros, vírgula somente para separar os 
+centavos).
 - Exemplo: 24350,00.
 
 * Em seguida, aparecerá todos os resultados baseados nos valores pré-determinados no código e na entrada.txt  
