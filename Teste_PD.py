@@ -33,7 +33,7 @@ uniaoTotal = (uniaoPorcentagem / 100) * valorFiscal
 municipioTotal = (municipioPorcentagem / 100) * valorFiscal
 
 
-print("\n Em atendimento à Lei 12.741/2012 (Lei do Imposto na Nota Fiscal) informamos que o valor aproximado dos tributos incidentes sobre  deas operaçõesste")
+print("\n Em atendimento à Lei 12.741/2012 (Lei do Imposto na Nota Fiscal) informamos que o valor aproximado dos tributos incidentes sobre  as operações deste")
 print("estabelecimento é de", "%.2f" % totalPorcentagem, "% ( R$", "%.2f" % total, "), assim distribuídos:")
-print("- Uniao:", "%.2f" % uniaoPorcentagem, "% (R$", "%.2f" % uniaoTotal, ").")
-print("- Municipio:", "%.2f" % municipioPorcentagem, "% (R$", "%.2f" % municipioTotal, ").")
+print("- União:", "%.2f" % uniaoPorcentagem, "% (R$", "%.2f" % uniaoTotal, ").")
+print("- Município:", "%.2f" % municipioPorcentagem, "% (R$", "%.2f" % municipioTotal, ").")
