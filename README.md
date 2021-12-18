@@ -30,11 +30,11 @@ Antes de começar, é neessário ter instalado em sua máquina as seguintes ferr
 ### 🎲 Rodando o Programa 
 
 ```bash
-# Clone este repositório
-$ git clone <https://github.com/PatriciaLopes123/Teste_PD>
+* Clone este repositório
+- git clone <https://github.com/PatriciaLopes123/Teste_PD>
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+# Abra a pasta "Teste_PD" no PyCharm
+$ 
 
 # Vá para a pasta server
 $ cd server
