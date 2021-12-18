@@ -7,9 +7,9 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Tabela de Conteúdo](#tabela-de-conteudo)
+   * [tabela de Conteudo](#tabela-de-conteudo)
    * [Como usar](#-como-usar)
-      * [Pre-Requisitos](#pre-requisitos)
+      * [Pre Requisitos](#pre-requisitos)
       * [Rodando o programa](#rodando-programa)
    * [Tecnologias](#tecnologias)
 <!--te-->
