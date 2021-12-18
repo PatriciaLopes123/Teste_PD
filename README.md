@@ -6,7 +6,6 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-  
    * [Tabela de Conteúdo](#tabela-de-conteudo)
    * [Como usar](#como-usar)
       * [Pré-Requisitos](#Pre-requisitos)
