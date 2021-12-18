@@ -6,9 +6,9 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Tabela de Conteúdo](#tabela-de-conteudo)
    * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
+      * [Pré Requisitos](#pre-requisitos)
       * [Rodando o programa](#Rodando-o-programa)
    * [Tecnologias](#tecnologias)
 <!--te-->
@@ -37,12 +37,13 @@ Antes de começar, é necessário ter instalado em sua máquina as seguintes fer
 * Ao executar o código, será requisitado o valor total da nota fiscal (Coloque números inteiros, vírgula somente para separar os centavos).
 - Exemplo: 24350,00.
 
-* Em seguida, aparecerá todos resultados baseados nos valores pré-determinados no código e na entrada.txt  
+* Em seguida, aparecerá todos os resultados baseados nos valores pré-determinados no código e na entrada.txt  
 
-* Para mudar os valores das porcentagens na entrada.txt, basta abrir o arquivo e mudar os valores (pode-se colocar vírgulas, se necesário)
-- Após isso, no código, mude também as linhas referentes a "uniaoPorcentagem" e "municipioPorcentagem" paraos mesmos valores estipulados na entrada.txt
+* Para mudar os valores das porcentagens na entrada.txt, basta abrir o arquivo e mudar os valores (pode-se colocar vírgulas e demais símbolos, se necesário)
+- Após isso, no código, mude também as linhas (25 e 26) referentes a "uniaoPorcentagem" e "municipioPorcentagem" para os mesmos valores estipulados na entrada.txt (porém, use apenas "ponto" para separar as casas decimais)
+- Exemplo: 8.05486.
 
-# Seguindo esse passos, os cálculos serão automaticamente (com bae nos nas fórmulas definidas) 
+# Seguindo esse passos, os cálculos serão feitos automaticamente (com bae nos nas fórmulas definidas) 
 ```
 
 ### 🛠 Tecnologias
