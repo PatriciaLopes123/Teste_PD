@@ -7,11 +7,11 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Tabela de Conteúdo](#tabela-de-conteudo)
-   * [Como usar](#como-usar)
-      * [Pré-Requisitos](#pre-requisitos)
-      * [Rodando o programa](#rodando-programa)
-   * [Tecnologias](#tecnologias)
+   * [Tabela de Conteúdo](#-tabela-de-conteudo)
+   * [Como usar](#-como-usar)
+      * [Pré-Requisitos](#-pre-requisitos)
+      * [Rodando o programa](#-rodando-programa)
+   * [Tecnologias](#-tecnologias)
 <!--te-->
 
 <h4 align="center"> 
