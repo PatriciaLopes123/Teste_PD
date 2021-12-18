@@ -6,7 +6,7 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Tabela de Conteúdo](#tabela-de-conteudo)
+   * [Tabela de Conteúdo]
    * [Como usar](#como-usar)
       * [Pré Requisitos](#pre-requisitos)
       * [Rodando o programa](#Rodando-o-programa)
@@ -15,7 +15,7 @@ Tabela de conteúdos
 
 
 <h4 align="center"> 
-	🚧  Statu do projeto 🚀 Em andamento...  🚧
+	🚧  Status do projeto 🚀 Em andamento...  🚧
 </h4>
 
 
