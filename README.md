@@ -1,17 +1,17 @@
 <h1 align="center">Teste PD Soluções</h1>
 
 ## Descrição do Projeto
-<p align="center">Projeto desenvolvido para fim de geração de comentário para a nota fiscal PD Soluções.</p>
+<p align="center">Projeto desenvolvido para fim de geração de comentário para a nota fiscal da PD Soluções.</p>
 
 
 Tabela de conteúdos
 =================
 <!--ts-->
-   * Tabela de Conteúdo
-   * Como usar
-      * Pré-Requisitos
-      * Rodando o programa
-   * Tecnologias
+   * [Tabela de Conteúdo](#tabela-de-conteudo)
+   * [Como usar](#como-usar)
+      * [Pré-Requisitos](#pre-requisitos)
+      * [Rodando o programa](#rodando-programa)
+   * [Tecnologias](#tecnologias)
 <!--te-->
 
 <h4 align="center"> 
@@ -30,6 +30,7 @@ Antes de começar, é necessário ter instalado em sua máquina as seguintes fer
 ```bash
 * Clone este repositório
 - git clone <https://github.com/PatriciaLopes123/Teste_PD>
+- 
 
 * Abra o PyCharm 
 - Abra a pasta "Teste_PD" no PyCharm 
