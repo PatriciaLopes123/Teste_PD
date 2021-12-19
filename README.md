@@ -23,7 +23,7 @@ Tabela de conteúdos
 
 Antes de começar, é necessário ter instalado em sua máquina as seguintes ferramentas: <br>
 [PayCharm](https://www.jetbrains.com/pycharm/)<br>
-[Python](https://www.python.org/downloads/) <br>
+[Git](https://git-scm.com/) <br>
 
 
 ### 🎲 Rodando o Programa 
