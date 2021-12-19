@@ -41,9 +41,9 @@ somente para separar os centavos).
 	
 ➡ Em seguida, aparecerá todos os resultados baseados nos valores pré-determinados no código e na entrada.txt.
 
-➡ Para mudar os dados dos arquivo txt que será lido pelo programa, como por exemplo, as porcentagens e vencimento,
+➡ Para mudar os dados dos arquivos txt que será lido pelo programa, como por exemplo, as porcentagens e vencimento,
 basta abrir o arquivo (entrada.txt e saida.txt) e mudar os valores (pode-se colocar vírgulas e demais símbolos, se
-necesário).
+necessário).
 
 ➡ Após isso, no código, mude também as linhas (25 e 26) referentes a "uniaoPorcentagem" e 
 "municipioPorcentagem" para os mesmos valores estipulados na entrada.txt (porém, use apenas "ponto" 
@@ -63,5 +63,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 	
 ### Conclusão
 
-O projeto tem como finalidade a geração de um software capaz de registrar os valores de impostos mensais da empresa,
+O projeto tem como finalidade a geração de um software capaz de registrar os valores dos impostos mensais da empresa,
 bem como seu vencimento e efetuar os cálculos necessários para a obtenção de resultados da sua receita.
