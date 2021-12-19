@@ -31,6 +31,8 @@ Antes de começar, é necessário ter instalado em sua máquina as seguintes fer
 ```bash
 * Clone este repositório
 ➡ git clone <https://github.com/PatriciaLopes123/Teste_PD>
+# Ou faça download
+➡ Code ➡ Download ZIP
 
 * Abra o PyCharm 
 ➡ Clique em: File ➡ Open ➡ Selecione a pasta com o presente arquivo baixado (Teste_PD)
