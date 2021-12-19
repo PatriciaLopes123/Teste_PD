@@ -30,8 +30,7 @@ Antes de começar, é necessário ter instalado em sua máquina as seguintes fer
 ```bash
 * Clone este repositório
 - git clone <https://github.com/PatriciaLopes123/Teste_PD>
-- 
-img src="imagem1.jpg"
+-
 
 * Abra o PyCharm 
 - Abra a pasta "Teste_PD" no PyCharm 
